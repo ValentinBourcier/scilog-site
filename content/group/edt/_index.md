@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## Contact
-* Jannik Laval (jannik.laval@univ-lyon2.fr),
+* Jannik Laval (jannik.laval@grenoble-inp.fr),
 * Antoine Beugnard (antoine.beugnard@imt-atlantique.fr),
 * Sylvain Vauttier (sylvain.vauttier@mines-ales.fr)
 * Sylvain Guerin (sylvain.guerin@imt-atlantique.fr)
