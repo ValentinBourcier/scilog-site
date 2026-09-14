@@ -17,12 +17,13 @@ Il assure le pilotage opérationnel du {{% scilog %}}, la gestion administrative
 
 ### Composition
 
-Le comité de direction est composé d'au moins les 9 membres suivants : 
+Le comité de direction est composé d'au moins les 10 membres suivants : 
 
 * les trois co-directeurs, 
 * le ou la présidente du Comité Stratégique, 
 * les membres du Comité Stratégique chargés de mission suivantes : 
     - relations industrielles, 
+    - chargé de prospectives,
     - parité, éthique et société, 
     - communication, 
     - écoles et conférences, et 
@@ -37,6 +38,7 @@ Co-directeur·rice 2  | {{< param "codir2name" >}}
 Co-directeur·rice 3  | {{< param "codir3name" >}}
 Présidence du Comité Stratégique  | {{< param "CSpres" >}}
 Chargé·e relations industrielles  | {{< param "ri" >}}
+Chargé de prospectives | {{< param "prospect" >}}
 Chargé·e parité, éthique et société  | {{< param "pes" >}}
 Chargé·e communication  | {{< param "com" >}}
 Chargé·e écoles et conférences  | {{< param "school" >}}
