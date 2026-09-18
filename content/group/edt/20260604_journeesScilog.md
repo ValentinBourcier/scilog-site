@@ -14,4 +14,4 @@ draft: false
 **Informations**
 
 - session en amphithéatre lors des journées Scilog
-- > 40 participants
+- '> 40 participants

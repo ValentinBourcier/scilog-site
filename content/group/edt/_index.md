@@ -74,6 +74,8 @@ La réalisation d’instances de jumeau numérique sera un moyen de valider les 
 
 ## Précédents évènements
 
+- [10/12/2026 - 3ème journée Jumeaux Numériques](./20261210_journeesScilog)
+
 - [17/03/2026 - soirée Jumeaux Numériques](https://gdr-scilog.cnrs.fr/group/edt/20260317_soiree_jjn/)
 
 - [11/12/2025 - 2ème journée Jumeaux Numériques](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/action%20Jumeaux%20Num%C3%A9riques/)
