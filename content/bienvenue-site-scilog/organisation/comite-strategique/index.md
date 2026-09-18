@@ -58,3 +58,4 @@ Sans pour autant atteindre la parité parfaite, le Comité Stratégique est actu
 | Moreau | Pierre-Etienne | U. Lorraine | LORIA (UMR 7503) |
 | Mosser | Sébastien | U. McMaster, Canada | McSCERT |
 | Perrouin | Gilles | U. Namur, Belgique | FNRS |
+| Sadou | Salah | U. Bretagne Sud | IRISA (UMR 6074) |
