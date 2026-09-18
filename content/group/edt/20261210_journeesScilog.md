@@ -15,8 +15,8 @@ La prochaine journée Jumeaux Numériques du GDR Scilog aura lieu à Toulouse, l
 - 11h00-11h30 : Discussions autour d'un café
 - 11h30-12h30 : 3 Présentations
 - repas
-- 14h00-15h00 : atelier en groupe : les sujets transversaux aux jumeaux numériques
-- 15h00-16h00 : restitution
+- 14h00-15h30 : atelier en groupe : les sujets transversaux aux jumeaux numériques
+- 16h00-17h00 : restitution
 - discussions et fin de journée
 
 **Lieu de rassemblement**
