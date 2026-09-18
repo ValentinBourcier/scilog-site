@@ -6,7 +6,7 @@ draft: false
 ---
 
 ## Contact
-* Jannik Laval (jannik.laval@univ-lyon2.fr),
+* Jannik Laval (jannik.laval@grenoble-inp.fr),
 * Antoine Beugnard (antoine.beugnard@imt-atlantique.fr),
 * Sylvain Vauttier (sylvain.vauttier@mines-ales.fr)
 * Sylvain Guerin (sylvain.guerin@imt-atlantique.fr)
@@ -73,6 +73,8 @@ La réalisation d’instances de jumeau numérique sera un moyen de valider les 
 
 
 ## Précédents évènements
+
+- [10/12/2026 - 3ème journée Jumeaux Numériques](./20261210_journeesScilog)
 
 - [17/03/2026 - soirée Jumeaux Numériques](https://gdr-scilog.cnrs.fr/group/edt/20260317_soiree_jjn/)
 
