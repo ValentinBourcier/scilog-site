@@ -34,7 +34,7 @@ Les verrous abordés ci-dessous sont détaillés dans l'article de [Benoît Comb
 - **Collaboration :**  le DevX considère plusieurs types de développeurs, les ingénieurs, scientifiques, experts métier et « développeurs citoyens ».
 Concevoir des environnements favorisant la conscience mutuelle, la coordination et la « translucidité sociale » (rendre visibles les actions et intentions des autres) pour ces différents profils reste un défi ouvert. 
 
-- **Mesure et fragmentation de la recherche :** La DevX a besoin de dimensions mesurables partagées, ainsi que de benchmarks et d'instruments validés. Elle doit aussi relier des connaissances aujourd'hui cloisonnées entre psychologie cognitive, sciences des organisations et recherche en utilisabilité.
+- **Mesure et fragmentation de la recherche :** Le DevX a besoin de dimensions mesurables, de benchmarks et d'instruments validés. Obtenir ces dimensions reste un défi car le DevX est un domaine d'étude qui relie génie logiciel, psychologie cognitive, sciences des organisations et recherche en utilisabilité .
 
 ## Collaboration
 
